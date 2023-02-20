@@ -1,0 +1,6 @@
+CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO	FORMAT	Ref1	Seq2	Seq3	Seq4	Seq5	Seq6	Seq7	Seq8	Ref2	Ref3	Ref4	Ref5	Seq13	Seq14	Seq15	Seq16	Seq17	Seq18	Seq19	Seq20	Seq21	Seq22	Ref6	Ref7	Ref8	Ref9	Ref10	Ref11	Ref12																												
+1	15	.	G	T,-	.	.	.	AB	G	G	G	T	-	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	
+1	19	.	-	A,T	.	.	.	AB	-	A	A	A	A	A	A	A	-	-	-	-	A	-	T	T	T	T	T	T	T	T	-	-	-	-	-	-	-	
+1	21	.	T	A	.	.	.	AB	T	T	T	T	T	T	T	T	T	T	T	T	T	A	A	A	A	A	A	A	A	A	T	T	T	T	T	T	T	
+1	30	.	G	C	.	.	.	AB	G	G	G	G	G	G	G	C	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	
+1	36	.	G	C	.	.	.	AB	G	G	G	G	G	G	G	G	G	G	G	G	G	G	C	G	G	G	G	G	G	G	G	G	G	G	G	G	G	

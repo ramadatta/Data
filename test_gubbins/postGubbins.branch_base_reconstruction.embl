@@ -1,0 +1,42 @@
+FT   variation       15
+FT                   /node="internal_32->internal_33"
+FT                   /colour="4"
+FT                   /taxa=" Seq4 Seq5"
+FT                   /parent_base="G"
+FT                   /replace="T"
+FT   variation       36
+FT                   /node="internal_50->internal_51"
+FT                   /colour="4"
+FT                   /taxa=" Seq14  Seq20  Seq17   Seq22  Seq18  Seq19 Seq21 Seq16"
+FT                   /parent_base="C"
+FT                   /replace="G"
+FT   variation       19
+FT                   /node="internal_49->internal_50"
+FT                   /colour="4"
+FT                   /taxa=" Seq15  Seq14  Seq20  Seq17   Seq22  Seq18  Seq19 Seq21 Seq16"
+FT                   /parent_base="A"
+FT                   /replace="T"
+FT   variation       21
+FT                   /node="internal_49->internal_50"
+FT                   /colour="4"
+FT                   /taxa=" Seq15  Seq14  Seq20  Seq17   Seq22  Seq18  Seq19 Seq21 Seq16"
+FT                   /parent_base="T"
+FT                   /replace="A"
+FT   variation       30
+FT                   /node="internal_49->internal_50"
+FT                   /colour="4"
+FT                   /taxa=" Seq15  Seq14  Seq20  Seq17   Seq22  Seq18  Seq19 Seq21 Seq16"
+FT                   /parent_base="C"
+FT                   /replace="G"
+FT   variation       36
+FT                   /node="internal_49->internal_50"
+FT                   /colour="4"
+FT                   /taxa=" Seq15  Seq14  Seq20  Seq17   Seq22  Seq18  Seq19 Seq21 Seq16"
+FT                   /parent_base="G"
+FT                   /replace="C"
+FT   variation       30
+FT                   /node="internal_ROOT->internal_49"
+FT                   /colour="4"
+FT                   /taxa="  Seq15  Seq14  Seq20  Seq17   Seq22  Seq18  Seq19 Seq21 Seq16 Seq8"
+FT                   /parent_base="G"
+FT                   /replace="C"
